@@ -13,7 +13,7 @@ author_profile: true
 
   *SIGGRAPH Asia (Conference Track)*, 2022.
   
-  [[project]](https://jingsenzhu.github.io/invrend/)[[paper]](#)[[code]](#)[[dataset]](#)
+  [[project]](https://jingsenzhu.github.io/invrend/) [[paper]](#) [[code]](#) [[dataset]](#)
 
 - Hitchhiker: Accelerating ORAM with Dynamic Scheduling
 
