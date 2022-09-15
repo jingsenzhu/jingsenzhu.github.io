@@ -14,7 +14,7 @@ I am a graduate student (2021 - 2024, expected) in [Zhejiang University](https:/
 
 ## Research Interests
 
-My research interests lie in the intersection between **computer graphics** and **computer vision**, specifically, in **inverse rendering**, **scene reconstruction** and **neural rendering**. I used to research on **computer architecture** and **system security**.
+My research interests lie in the intersection between **computer graphics** and **computer vision**, specifically, in **inverse rendering**, **scene reconstruction** and **neural rendering**. I used to research on computer architecture and system security.
 
 
 
