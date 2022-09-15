@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+- Hitchhiker: Accelerating ORAM with Dynamic Scheduling
+  **Jingsen Zhu**, Mengming Li, Xingjian Zhang, Kai Bu, Miao Zhang, and Tianqi Song
+  *IEEE Transactions on Computers (**TC**)*, 2022.
+  [[paper]](#)
+- Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing
+  **Jingsen Zhu**, Fujun Luan, Yuchi Huo, Zihao Lin, Zhihua Zhong, Dianbing Xi, Rui Wang, Hujun Bao, Jiaxiang Zheng, Tang Rui
+  *SIGGRAPH Asia (Conference Track)*, 2022.
+  [[project]](https://jingsenzhu.github.io/invrend/)[[paper]](#)[[code]](#)[[dataset]](#)
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
