@@ -27,12 +27,12 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      <!-- {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <!-- <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> -->
         <a href=" {{ post.paperurl }}"> {{ title }}</a>
-      {% endif %}
+      {% endif %} -->
+      <p>{{ title }}</p>
     </h2>
     
     {% if post.read_time %}
@@ -44,7 +44,7 @@
         {% elsif post.collection == 'publications' %}
           <p> {{post.authors}} </p>
           <p> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% if post.project %}
+          <!-- {% if post.project %}
             {% if post.code and post.data %}
               <a href="{{ post.paperurl }}">[Paper]</a> <a href="{{ post.project }}">[Project]</a> <a href="{{ post.code }}">[Code]</a> <a href="{{ post.data }}">[Dataset]</a>
             {% else %}
@@ -52,7 +52,51 @@
             {% endif %}
           {% else %}
             <a href="{{ post.paperurl }}">[Paper]</a>
-          {% endif %}
+          {% endif %} -->
+          <div class="publication-links">
+            <span class="link-block">
+              <a href="{{ post.paperurl }}"
+                 class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                    <i class="fas fa-file-pdf"></i>
+                </span>
+                <span>Paper</span>
+              </a>
+            </span>
+            {% if post.project %}
+            <span class="link-block">
+              <a href="{{ post.project }}"
+                 class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fas fa-earth-asia"></i>
+                </span>
+                <span>Project</span>
+              </a>
+            </span>
+            {% endif %}
+            {% if post.code %}
+            <span class="link-block">
+              <a href="{{ post.code }}"
+                 class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-github"></i>
+                </span>
+                <span>Code</span>
+              </a>
+            </span>
+            {% endif %}
+            {% if post.dataset %}
+            <span class="link-block">
+              <a href="{{ post.dataset }}"
+                 class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="far fa-images"></i>
+                </span>
+                <span>Data</span>
+              </a>
+            </span>
+            {% endif %}
+          </div>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}

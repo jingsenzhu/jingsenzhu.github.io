@@ -4,6 +4,5 @@ collection: publications
 permalink: /publication/hitchhiker
 venue: 'IEEE Transactions on Computers (TC)'
 paperurl: '#'
-link: '#'
 authors: '<b>Jingsen Zhu</b>, Mengming Li, Xingjian Zhang, Kai Bu, Miao Zhang, Tianqi Song'
 ---
