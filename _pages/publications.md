@@ -11,7 +11,7 @@ author_profile: true
 
   **Jingsen Zhu**, Fujun Luan, Yuchi Huo, Zihao Lin, Zhihua Zhong, Dianbing Xi, Rui Wang, Hujun Bao, Jiaxiang Zheng, Tang Rui
 
-  *SIGGRAPH Asia (Conference Track)*, 2022.
+  *SIGGRAPH Asia (Conference Proceedings)*, 2022.
   
   [[project]](https://jingsenzhu.github.io/invrend/) [[paper]](#) [[code]](#) [[dataset]](#)
 
