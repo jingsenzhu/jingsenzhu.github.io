@@ -1,7 +1,7 @@
 ---
 title: "Hitchhiker: Accelerating ORAM with Dynamic Scheduling"
 collection: publications
-permalink: /publication/hitchhiker
+# permalink: /publication/hitchhiker
 venue: 'IEEE Transactions on Computers (TC)'
 paperurl: '#'
 authors: '<b>Jingsen Zhu</b>, Mengming Li, Xingjian Zhang, Kai Bu, Miao Zhang, Tianqi Song'
