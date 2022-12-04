@@ -21,7 +21,7 @@ My research interests lie in the intersection between **computer graphics** and 
 ## News
 
 - **[09/2022]** Our paper "Hitchhiker: Accelerating ORAM with Dynamic Scheduling" is accepted by IEEE Transactions on Computers!
-- **[08/2022]** Our paper "Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing" is conditionally accepted by SIGGRAPH Asia 2022 (Conference Track)!
+- **[08/2022]** Our paper "Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing" is conditionally accepted by SIGGRAPH Asia 2022 (Conference Track)! Visit the [project page](https://jingsenzhu.github.io/invrend/)!
 
 
 
