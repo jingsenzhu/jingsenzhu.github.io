@@ -24,6 +24,20 @@
   <script defer src="./static/js/fontawesome.all.min.js"></script>
   <script src="./static/js/bulma-carousel.min.js"></script>
   <script src="./static/js/bulma-slider.min.js"></script>
+  <link rel="stylesheet" href="./definitive-image-comparison-slider-master/src/dics.css">
+  <script src="./definitive-image-comparison-slider-master/src/dics.js"></script>
+	<script>
+    document.addEventListener('DOMContentLoaded', domReady);
+    function domReady() {
+      var b = document.querySelectorAll('.b-dics');
+      b.forEach(element => 
+        new Dics({
+          container: element,
+          textPosition: 'top'
+        })
+      );
+    }
+	</script>
   <script src="./static/js/index.js"></script>
 </head>
 <body>
@@ -188,11 +202,26 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <div class="has-text-centered">
-        <img id="teaser" src="static/images/pipeline.png" class="is-centered" />
+      <div class="columns is-centered has-text-centered">
+        <div class="column">
+          <div class="content">
+            <div class="b-dics" style="width: 400px;">
+              <img src="static/images/teaser/0c_mono.png" alt="MonoSDF" />
+              <img src="static/images/teaser/0c_ours.png" alt="Ours" />
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <div class="b-dics" style="width: 400px;">
+              <img src="static/images/teaser/0009_orig_filter.png" alt="Origin" />
+              <img src="static/images/teaser/0009_relight_filter.png" alt="Relight" />
+            </div>
+          </div>
+        </div>
       </div>
-      <h2 class="subtitle has-text-centered" style="font-size:18px;">
-        TL;DR: I<sup>2</sup>-SDF resolves challenges in reconstructing small objects inside an indoor scene by a novel bubble loss, and leverages intrinsic decomposition and raytracing to enable photo-realistic scene editing and relighting.
+      <h2 class="subtitle has-text-centered" style="font-size:16px;">
+        TL;DR: I<sup>2</sup>-SDF resolves challenges in reconstructing small objects inside an indoor scene by a novel bubble loss (Left), and leverages intrinsic decomposition and raytracing to enable photo-realistic scene editing and relighting (Right).
       </h2>
     </div>
   </div>
