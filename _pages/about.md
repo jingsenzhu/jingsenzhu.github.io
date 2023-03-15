@@ -20,7 +20,7 @@ My research interests lie in the intersection between **computer graphics** and 
 
 ## News
 
-- **[02/2023]** Our paper ***I$^2$-SDF:  Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs*** is accepted by CVPR 2023! Visit the [project page](https://jingsenzhu.github.io/i2-sdf/)!
+- **[02/2023]** Our paper ***I$^2$-SDF:  Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs*** is accepted by CVPR 2023! Visit the [project page](https://jingsenzhu.github.io/i2-sdf/) and [arXiv](https://arxiv.org/abs/2303.07634)!
 - **[01/2023]** Our dataset ***InteriorVerse*** has been released! Visit [here](https://interiorverse.github.io/) to download!
 - **[09/2022]** Our paper ***Hitchhiker: Accelerating ORAM with Dynamic Scheduling*** is accepted by IEEE Transactions on Computers!
 - **[08/2022]** Our paper ***Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing*** is conditionally accepted by SIGGRAPH Asia 2022 (Conference Track)! Visit the [project page](https://jingsenzhu.github.io/invrend/)!
