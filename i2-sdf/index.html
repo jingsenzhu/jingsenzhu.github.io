@@ -255,11 +255,120 @@
   </div>
 </section>
 
+<section class="section" id="geo">
+  <!-- Geometry. -->
+  <div class="container is-max-desktop has-text-centered">
+    <h2 class="title">Geometry Reconstruction</h2>
+    <div class="container">
+      <div id="geo-carousel" class="carousel results-carousel">
+        <div class="item item-0">
+          <div class="b-dics">
+            <img src="static/images/geometry/0000_mono.png" alt="MonoSDF" />
+            <img src="static/images/geometry/0000.png" alt="Input" />
+            <img src="static/images/geometry/0000_ours.png" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-1">
+          <div class="b-dics">
+            <img src="static/images/geometry/0001_mono.png" alt="MonoSDF"/>
+            <img src="static/images/geometry/0001.png" alt="Input" />
+            <img src="static/images/geometry/0001_ours.png" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-2">
+          <div class="b-dics">
+            <img src="static/images/geometry/0028_mono.png" alt="MonoSDF"/>
+            <img src="static/images/geometry/0028.png" alt="Input" />
+            <img src="static/images/geometry/0028_ours.png" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-3">
+          <div class="b-dics">
+            <img src="static/images/geometry/0007_mono.png" alt="MonoSDF" />
+            <img src="static/images/geometry/0007.png" alt="Input" />
+            <img src="static/images/geometry/0007_ours.png" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-4">
+          <div class="b-dics">
+            <img src="static/images/geometry/0299_mono.png" alt="MonoSDF" />
+            <img src="static/images/geometry/0299.png" alt="Input" />
+            <img src="static/images/geometry/0299_ours.png" alt="Ours" />
+          </div>
+        </div>
+        <!-- <div class="item item-5">
+          <div class="b-dics">
+            <img src="static/images/geometry/0000_mono_real.png" alt="MonoSDF" />
+            <img src="static/images/geometry/0000_ours_real.png" alt="Ours" />
+          </div>
+        </div> -->
+      </div>
+    </div>
+    <div class="content has-text-justified">
+      <br />
+      We analyze the <b>vanishing gradient</b> problem of SDF-based volume rendering techniques, which results in failures of existing methods to reconstruct off-surface small objects. We propose a novel <b>bubble loss</b> to tackle this.
+    </div>
+    <!--/ Geometry. -->
+  </div>
+</section>
+
+<section class="section" id="synthesis">
+  <!-- Synthesis. -->
+  <div class="container is-max-desktop has-text-centered">
+    <h2 class="title">Novel View Synthesis</h2>
+    <div class="container">
+      <div id="novel-carousel" class="carousel results-carousel">
+        <div class="item item-0">
+          <div class="b-dics">
+            <img src="static/videos/novel/scan130_mono.gif" alt="MonoSDF"/>
+            <img src="static/videos/novel/scan130_ours.gif" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-1">
+          <div class="b-dics">
+            <img src="static/videos/novel/scan322_mono.gif" alt="MonoSDF"/>
+            <img src="static/videos/novel/scan322_ours.gif" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-2">
+          <div class="b-dics">
+            <img src="static/videos/novel/scan125_ngp.gif" alt="Instant-NGP"/>
+            <img src="static/videos/novel/scan125_ours.gif" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-3">
+          <div class="b-dics">
+            <img src="static/videos/novel/scan127_ngp.gif" alt="Instant-NGP"/>
+            <img src="static/videos/novel/scan127_ours.gif" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-4">
+          <div class="b-dics">
+            <img src="static/videos/novel/scan51_neuris.gif" alt="NeuRIS"/>
+            <img src="static/videos/novel/scan51_ours.gif" alt="Ours" />
+          </div>
+        </div>
+        <div class="item item-5">
+          <div class="b-dics">
+            <img src="static/videos/novel/scan31_nerf.gif" alt="NeRF"/>
+            <img src="static/videos/novel/scan31_ours.gif" alt="Ours" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="content has-text-justified">
+      <br />
+      Our method outperforms previous methods in novel view synthesis of indoor scenes. Previous methods suffers from either reconstruction failure or overfitting.
+    </div>
+    <!--/ Synthesis. -->
+  </div>
+</section>
+
 <footer class="footer">
   <div class="container">
     <div class="content has-text-centered">
       <a class="icon-link"
-         href="#">
+         href="https://arxiv.org/pdf/2303.07634">
         <i class="fas fa-file-pdf"></i>
       </a>
       <a class="icon-link" href="https://github.com/jingsenzhu/" class="external-link" disabled>
@@ -278,6 +387,19 @@
     </div>
   </div>
 </footer>
+
+<script>
+  bulmaCarousel.attach('#geo-carousel', {
+    slidesToScroll: 1,
+    slidesToShow: 2,
+    infinite: true
+  });
+  bulmaCarousel.attach('#novel-carousel', {
+    slidesToScroll: 1,
+    slidesToShow: 2,
+    infinite: true
+  });
+</script>
 
 </body>
 </html>
