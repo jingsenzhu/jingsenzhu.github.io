@@ -10,6 +10,8 @@ redirect_from:
 
 I am a graduate student (2021 - 2024, expected) in [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) and [Yuchi Huo](https://person.zju.edu.cn/en/yuchihuo). I am also working closely with Dr. [Fujun Luan](https://luanfujun.github.io/) in [Adobe Research](https://research.adobe.com/). Previously, I received the B.Eng. degree from [CS](http://www.en.cs.zju.edu.cn/), [ZJU](http://www.zju.edu.cn/english) in 2021. I was very lucky to do research with Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/) during my undergraduate years.
 
+<span style="color:red">I will finish my master in spring 2024, and I am actively look for PhD positions in fall 2024.</span>
+
 
 
 ## Research Interests
