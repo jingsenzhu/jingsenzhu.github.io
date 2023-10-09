@@ -33,6 +33,7 @@ My research interests lie in the intersection between **computer graphics** and 
 
 ## Selected Awards
 
+- National Scholarship (top 1%), 2023
 - Outstanding Undergraduate Thesis Award, ZJU, 2021
 - Outstanding Undergraduate Award, ZJU, 2021
 - "Academic Star" Honorary Title of CS department of ZJU (10 candidates out of 300+ students), 2020 
