@@ -10,7 +10,7 @@ redirect_from:
 
 I am a graduate student (2021 - 2024, expected) in [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) and [Yuchi Huo](https://person.zju.edu.cn/en/yuchihuo). I am also working closely with Dr. [Fujun Luan](https://luanfujun.github.io/) in [Adobe Research](https://research.adobe.com/). Previously, I received the B.Eng. degree from [CS](http://www.en.cs.zju.edu.cn/), [ZJU](http://www.zju.edu.cn/english) in 2021. I was very lucky to do research with Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/) during my undergraduate years.
 
-<span style="color:red">I will finish my master in spring 2024, and I am actively looking for PhD positions in fall 2024.</span>
+<span style="color:red">I will finish my master in spring 2024, and I am actively looking for PhD positions in fall 2024. Please [contact me](mailto:zhujingsen.p32@gmail.com) if you're interested :)</span>
 
 
 
@@ -22,7 +22,7 @@ My research interests lie in the intersection between **computer graphics** and 
 
 ## News
 
-- **[08/2023]** Our paper ***FuseSR: Super Resolution through Efficient Multi-resolution Fusion*** is conditionally accepted by SIGGRAPH Asia 2023 (Conference Track)!
+- **[08/2023]** Our paper ***FuseSR: Super Resolution for Real-time Rendering through Efficient Multi-resolution Fusion*** is conditionally accepted by SIGGRAPH Asia 2023 (Conference Track)! Visit the [project page](https://isaac-paradox.github.io/FuseSR/) and [arXiv](https://arxiv.org/abs/2310.09726/)!
 - **[07/2023]** Our paper ***Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields*** is accepted by ICCV 2023! Visit the [project page](https://windingwind.github.io/seal-3d/)!
 - **[02/2023]** Our paper ***I$^2$-SDF:  Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs*** is accepted by CVPR 2023! Visit the [project page](https://jingsenzhu.github.io/i2-sdf/) and [arXiv](https://arxiv.org/abs/2303.07634)!
 - **[01/2023]** Our dataset ***InteriorVerse*** has been released! Visit [here](https://interiorverse.github.io/) to download!
