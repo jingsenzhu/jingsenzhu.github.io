@@ -35,6 +35,7 @@ My research interests lie in the intersection between **computer graphics** and 
 
 ## Selected Awards
 
+- Zhejiang Provincial Outstanding Graduate Award, 2024
 - National Scholarship (top 1%), 2023
 - Outstanding Undergraduate Thesis Award, ZJU, 2021
 - Outstanding Undergraduate Award, ZJU, 2021
