@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming CS Ph.D. student at [Cornell University](https://www.cornell.edu/). Previously, I received my M.S. degree at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) and [Yuchi Huo](https://person.zju.edu.cn/en/yuchihuo). I am also working closely with Dr. [Fujun Luan](https://luanfujun.github.io/) in [Adobe Research](https://research.adobe.com/). I received the B.Eng. degree at [CS](http://www.en.cs.zju.edu.cn/), [ZJU](http://www.zju.edu.cn/english) in 2021. I was very lucky to do research with Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/) during my undergraduate years.
+I'm a first-year CS Ph.D. student at [Cornell University](https://www.cornell.edu/). Previously, I received my M.S. degree at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) and [Yuchi Huo](https://person.zju.edu.cn/en/yuchihuo). I am also working closely with Dr. [Fujun Luan](https://luanfujun.github.io/) in [Adobe Research](https://research.adobe.com/). I received the B.Eng. degree at [CS](http://www.en.cs.zju.edu.cn/), [ZJU](http://www.zju.edu.cn/english) in 2021. I was very lucky to do research with Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/) during my undergraduate years.
 
 
 
@@ -19,6 +19,7 @@ My research interests lie in the intersection between **computer graphics** and 
 
 
 ## News
+- **[08/2024]** I've started my PhD journey at [Cornell University](https://www.cornell.edu/)!
 - **[06/2024]** Our paper ***MIRReS: Multi-bounce Inverse Rendering using Reservoir Sampling*** now available on arXiv! Visit the [project page](https://brabbitdousha.github.io/MIRReS/) (code released)!
 - **[04/2024]** I'll continue my research journey at [Cornell University](https://www.cornell.edu/) to pursue my Ph.D. degree!
 <details>
