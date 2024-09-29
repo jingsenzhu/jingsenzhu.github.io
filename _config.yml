@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jingsen Zhu"
   avatar           : "my_photo_6.JPG"
-  bio              : "Graduate student at Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "PhD Student @ Cornell University"
+  location         : "Ithaca, NY, USA"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=2mXwwxwAAAAJ"
   email            : "zhujingsen.p32@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
