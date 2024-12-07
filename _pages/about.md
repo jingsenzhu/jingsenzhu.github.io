@@ -50,6 +50,7 @@ My research interests lie in the intersection between **computer graphics** and 
 ## Personal
 
 - I love rock and roll music. I can't tell which band is my favorite, because there are too many!
+  - I'm now in a [band](https://www.instagram.com/pinna_cornell/) at Cornell, where I play BASS🎸
 - I enjoy playing table tennis (ping pong)🏓, and am trying to learn tennis🎾 now.
 - I love photography, especially ecological photography (birds, plants, flowers, insects, wildlife, *etc.*) and macro photography. I'm a fan of Olympus [Micro Four Thirds (MFT)](https://www.four-thirds.org/) system.
 - I enjoy reading literature, psychology and philosophy, but still a beginner. I wish I could have more spare time reading these extracurricular books!

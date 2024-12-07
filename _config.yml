@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jingsen Zhu"
-  avatar           : "my_photo_6.JPG"
+  avatar           : "my_photo_cbox.JPG"
   bio              : "PhD Student @ Cornell University"
   location         : "Ithaca, NY, USA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jingsen-zhu"
   orcid            :
   pinterest        :
   soundcloud       :
