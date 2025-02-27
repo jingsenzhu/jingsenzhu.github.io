@@ -19,7 +19,7 @@ My research interests lie in the intersection between **computer graphics** and 
 
 
 ## News
-- **[01/2025]** Our paper ***Inverse Rendering for Shape, Light, and Material Decomposition using Multi-Bounce Path Tracing and Reservoir Sampling*** has been accepted by ICLR 2025! (Paper and Project page coming soon)
+- **[01/2025]** Our paper ***Inverse Rendering using Multi-Bounce Path Tracing and Reservoir Sampling*** has been accepted by ICLR 2025! [Project page](https://brabbitdousha.github.io/MIRReS/)
 - **[08/2024]** I've started my PhD journey at [Cornell University](https://www.cornell.edu/)!
 <details>
     <summary><span style="font-weight: bold;">Show more</span></summary>
