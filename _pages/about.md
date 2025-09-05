@@ -14,8 +14,7 @@ I'm a first-year CS Ph.D. student at [Cornell University](https://www.cornell.ed
 
 ## Research Interests
 
-My research interests lie in the intersection between **computer graphics** and **computer vision**, specifically, in **3D representation and reconstruction**, **inverse rendering**, **scene editing and relighting**, **neural rendering**, *etc*. I used to research computer architecture and system security during my undergraduate years.
-
+My research interests lie in the intersection between **Machine Learning**, **Computer Graphics** and **Computer Vision**. I'm recently interested in using *Bayesian inference* to model the uncertainties of graphics/vision tasks (like 3D reconstruction) and using *decision-making theory* for planning under uncertainty. I have extensive research experience in areas such as *3D reconstruction, inverse rendering, neural rendering, physics simulation*, etc. I used to research computer architecture and system security during my undergraduate years.
 
 
 ## News
