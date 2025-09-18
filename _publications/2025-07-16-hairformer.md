@@ -4,5 +4,5 @@ collection: publications
 # permalink: '#'
 venue: 'ArXiV preprint'
 paperurl: 'https://arxiv.org/abs/2507.12600/'
-authors: 'Joy Xiaoji Zhang, Jingsen Zhu, Hanyu Chen, Steve Marschner' 
+authors: 'Joy Xiaoji Zhang, <b>Jingsen Zhu</b>, Hanyu Chen, Steve Marschner' 
 ---
