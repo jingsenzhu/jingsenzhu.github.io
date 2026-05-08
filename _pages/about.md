@@ -18,7 +18,7 @@ My research interests lie in the intersection between **Machine Learning**, **Co
 
 
 ## News
-- **[03/2026]** 1 paper accepted by SIGGRAPH 2026 (Conference Track), details to be added.
+- **[03/2026]** 1 paper accepted by SIGGRAPH 2026 (Conference Track)! Paper on [arXiv](https://arxiv.org/abs/2605.05095) now.
 - **[11/2025]** 1 paper accepted by AAAI 2026, [project page](https://xdobetter.github.io/OOTD_PFAvatar/)
 <details>
     <summary><span style="font-weight: bold;">Show more</span></summary>
