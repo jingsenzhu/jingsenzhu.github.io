@@ -17,8 +17,10 @@ I'm a CS Ph.D. student at [Cornell University](https://www.cornell.edu/). Previo
 My research interests lie in the intersection between **Machine Learning**, **Computer Graphics** and **Computer Vision**. I'm recently interested in using *Bayesian inference* to model the uncertainties of graphics/vision tasks (like 3D reconstruction) and using *decision-making theory* for planning under uncertainty. I have extensive research experience in areas such as *3D reconstruction, inverse rendering, neural rendering, physics simulation*, etc. I used to research computer architecture and system security during my undergraduate years.
 
 
+
+
 ## News
-- **[03/2026]** 1 paper accepted by SIGGRAPH 2026 (Conference Track)! Paper on [arXiv](https://arxiv.org/abs/2605.05095) now.
+- **[03/2026]** 1 paper accepted by SIGGRAPH 2026 (Conference Track)! [Project page](https://jingsenzhu.github.io/bayesian-nbv-page/) and [arXiv paper](https://arxiv.org/abs/2605.05095)
 - **[11/2025]** 1 paper accepted by AAAI 2026, [project page](https://xdobetter.github.io/OOTD_PFAvatar/)
 <details>
     <summary><span style="font-weight: bold;">Show more</span></summary>
@@ -34,8 +36,6 @@ My research interests lie in the intersection between **Machine Learning**, **Co
 </details>
 
 
-
-
 ## Selected Honors and Awards
 
 - Qualcomm Innovation Fellowship finalist, 2025
@@ -49,6 +49,7 @@ My research interests lie in the intersection between **Machine Learning**, **Co
     <li>GPA rank 1st in CS major (1/154), 2020</li>
     <li>Zhejiang Province Scholarship, ZJU, 2018 and 2019</li>
 </details>
+
 
 ## Personal
 
