@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a CS Ph.D. student at [Cornell University](https://www.cornell.edu/). Previously, I received my M.S. degree at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) and [Yuchi Huo](https://person.zju.edu.cn/en/yuchihuo). I was also honored to collaborate with Dr. [Fujun Luan](https://luanfujun.github.io/) in [Adobe Research](https://research.adobe.com/). I received the B.Eng. degree at [CS](http://www.en.cs.zju.edu.cn/), [ZJU](http://www.zju.edu.cn/english) in 2021. I was very lucky to do research with Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/) during my undergraduate years.
+I'm a CS Ph.D. student at [Cornell University](https://www.cornell.edu/), advised by Prof. [Ramin Zabih](https://www.cs.cornell.edu/~rdz/). I'm also fortunate to work with [Alexander Terenin](https://avt.im/), Prof. [Michele Santacatterina](https://michelesantacatterina.github.io/) and [Raphael Kim](https://changon.github.io/). Previously, I received my M.S. degree at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) and [Yuchi Huo](https://person.zju.edu.cn/en/yuchihuo). I was also honored to collaborate with Dr. [Fujun Luan](https://luanfujun.github.io/) in [Adobe Research](https://research.adobe.com/). I received the B.Eng. degree at [CS](http://www.en.cs.zju.edu.cn/), [ZJU](http://www.zju.edu.cn/english) in 2021. I was very lucky to do research with Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/) during my undergraduate years.
 
 
 
-## Research Interests
+<!-- ## Research Interests
 
-My research interests lie in the intersection between **Machine Learning**, **Computer Graphics** and **Computer Vision**. I'm recently interested in using *Bayesian inference* to model the uncertainties of graphics/vision tasks (like 3D reconstruction) and using *decision-making theory* for planning under uncertainty. I have extensive research experience in areas such as *3D reconstruction, inverse rendering, neural rendering, physics simulation*, etc. I used to research computer architecture and system security during my undergraduate years.
+My research interests lie in the intersection between **Machine Learning**, **Computer Graphics** and **Computer Vision**. I'm recently interested in using *Bayesian inference* to model the uncertainties of graphics/vision tasks (like 3D reconstruction) and using *decision-making theory* for planning under uncertainty. I have extensive research experience in areas such as *3D reconstruction, inverse rendering, neural rendering, physics simulation*, etc. I used to research computer architecture and system security during my undergraduate years. -->
 
 
 
 
 ## News
+- **[09/2026]** 2 papers accepted by NeurIPS 2026!
 - **[03/2026]** 1 paper accepted by SIGGRAPH 2026 (Conference Track)! [Project page](https://jingsenzhu.github.io/bayesian-nbv-page/) and [arXiv paper](https://arxiv.org/abs/2605.05095)
 - **[11/2025]** 1 paper accepted by AAAI 2026, [project page](https://xdobetter.github.io/OOTD_PFAvatar/)
 <details>
